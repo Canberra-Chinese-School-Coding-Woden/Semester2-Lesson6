@@ -67,6 +67,7 @@ def draw_moon():
     t.end_fill()
 
 # TODO: use these functions to draw our night sky scenery
+# If you are unsure, refer to the lesson slides' night sky project as a guide
 
 
 
